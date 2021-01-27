@@ -1,0 +1,7 @@
+{
+  "name": "T5_U3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
